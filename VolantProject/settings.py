@@ -73,7 +73,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'VolantProject.wsgi.application'
+WSGI_APPLICATION = 'VolantProject.wsgi.app'
 
 
 # Database
