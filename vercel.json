@@ -16,11 +16,11 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "czarny_kot/wsgi.py"
+      "dest": "VolantProject/wsgi.py"
     },
     {
       "src": "/static/(.*)",
-      "dest": "/static/$1VolantProject
+      "dest": "/static/$1"
     }
   ]
 }
